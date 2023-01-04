@@ -1,0 +1,14 @@
+
+<style>
+details > summary {
+  padding: 4px;
+  border: none;
+  cursor: pointer;
+}
+
+details > p {
+  padding: 4px;
+  margin: 0;
+}
+</style>
+
